@@ -1,7 +1,6 @@
 # Inventory and Sales Analysis
-Visualized Insights: [Inventory Report](https://bit.ly/3Yn7kKH)
 
-This query retrieves detailed inventory, sales, and forecasting information for items within the 'Beauty' department and 'Cosmetics' category.
+This query retrieves detailed inventory, sales, and forecasting information
 
 ## Features
 
