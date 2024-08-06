@@ -40,15 +40,15 @@ This query retrieves detailed inventory, sales, and forecasting information
   - `item_node_level_instock_details` (A)
   - `uber_data` (B)
   - `item_aggregated_sales` (C)
-- Filters data to include specific warehouses and departments.
-- Aggregates relevant information by grouping the results by item ID.
+- Filters data to include specific warehouses and departments
+- Aggregates relevant information by grouping the results by item ID
 
 ### Data Visualization:
 - Summarizes key inventory and sales metrics for better decision-making and trend analysis.
 
 ## Results
-- The analysis provides comprehensive insights into the inventory levels, sales trends, and forecasting details for the 'Beauty' and 'Cosmetics' categories.
-- Helps identify potential supply chain issues and optimize inventory management strategies.
+- The analysis provides comprehensive insights into the inventory levels, sales trends, and forecasting details
+- Helps identify potential supply chain issues and optimize inventory management strategies
 
 ## Contact
-For any questions or contributions, feel free to open an issue or contact me through my GitHub profile.
+For any questions or contributions, feel free to open an issue or contact me through my GitHub profile
