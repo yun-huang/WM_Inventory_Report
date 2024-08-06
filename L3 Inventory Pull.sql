@@ -77,6 +77,4 @@ FROM dummy_analytics.item_node_level_instock_details A
 LEFT OUTER JOIN dummy_analytics.uber_data B ON (A.item_id = B.item_id)
 LEFT OUTER JOIN dummy_analytics.item_aggregated_sales C ON (A.item_id = C.item_id)
 WHERE A.dc_id IN ('DC1', 'DC2', 'DC3', 'DC4', 'DC5', 'DC6') -- warehouse IDs
-AND B.department_name IN ('Beauty') -- Insert L2
-AND B.category_name IN ('Cosmetics') -- Insert L3
 GROUP BY A.item_id;
